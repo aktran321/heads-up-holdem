@@ -1,0 +1,18 @@
+/* App.css or components/Player.css */
+.player {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.top-player {
+  position: absolute;
+  top: 0;
+  width: 100%;
+}
+
+.bottom-player {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
